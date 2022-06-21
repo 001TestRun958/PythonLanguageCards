@@ -8,11 +8,11 @@ a simple GUI which helps you to memorize words in by you chosen foreign language
 1) GUI with images and widgets. Here you can upload your own images or customize the widgets as well. 
 2) in shorter_content.csv are downloaded some english words with their czech translation.
 3) after pressing the button "right" the word will stay in shorter_content.csv but will be removed from the list of words which should display for next time and will be included in a new created file "known_words.csv".
-4) after pressing the button "wrong" which means that user did not know the word, the word will appear in the list "to_learn" again.
+4) after pressing the button "wrong" which means that user did not know the word, the word will stay in the "to_learn" list and will appear again.
 <br>Good luck!
 
 ## Visualisation
-<a href="">Short introduction of game</a>
+<a href="https://github.com/001TestRun958/PythonLanguageCards/blob/main/Flashy_Flipcards.mp4">Short introduction of game</a>
 
 ## Installation
 Please see the appropriate guide and if needed download the latest version of Python: 
